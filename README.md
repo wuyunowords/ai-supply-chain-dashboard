@@ -4,6 +4,12 @@
 
 > 纯 Python 后端 + 单文件 HTML 前端，零框架、零数据库，`python server.py` 一键启动。
 
+## 📸 预览
+
+![AI算力产业链看板](docs/screenshot.png)
+
+> 在线体验 👉 [niushia.com/ai](https://niushia.com/ai)
+
 ---
 
 ## ✨ 核心功能
@@ -79,6 +85,14 @@ ai-supply-chain-dashboard/
 - **股票池**：编辑 `server.py` 顶部的 `A_STOCKS`（A股）和 `INTL_STOCKS`（海外）字典，按 `板块: {代码: 名称}` 组织。
 - **研报共识**：编辑 `RESEARCH_CONSENSUS` 字典。
 - **研报PDF**：设环境变量 `REPORTS_DIR=/path/to/pdfs` 指向你的研报PDF目录。
+
+---
+
+## ☕ 支持作者 / Buy Me a Coffee
+
+如果这个项目对你有帮助，欢迎扫码请我喝杯咖啡 ☕ —— 你的支持是我持续更新的动力！也欢迎扫码进群一起聊 AI产业链与 A股短线。
+
+<img src="docs/wechat-qr.png" width="220" alt="微信赞赏 / 交流群">
 
 ---
 
